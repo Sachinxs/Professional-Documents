@@ -1,8 +1,8 @@
 # Professional-Documents
-Resume, Education, Portfolio documents, Cybersecurity tools, Programming 
+Includes files related to Resume, Education, Portfolio documents, Cybersecurity tools, Programming 
 
-Professional Statement
-
+**Professional Statement
+**
 As a dedicated professional aspiring to build a career in cybersecurity, I bring a unique blend of strengths, values, and interests that align with the dynamic and critical field of cybersecurity.
 
 Strengths:
